@@ -1,0 +1,169 @@
+/*--------------header specifications-----------------*/
+
+.perfil{
+	width: 35px;
+	margin-top: 12px;
+	margin-right: 20px;
+}
+
+.logotipo{
+	width: 75px;
+}
+
+#dropdown1{
+	top: 64px !important;
+}
+
+#parallax{
+	text-align: center;
+	color: white;
+	margin-top: 220px;
+	font-weight: bold;
+}
+#parallax-subtitle{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+#msg{
+	color: white;
+}
+
+#text-drop{
+	color: #FFFFFF;
+}
+
+#text-drop:hover{
+	color: #311b92;
+}
+
+#linha:hover{
+	color: black;
+}
+
+/*--------------cards specifications-----------------*/
+
+#card-title{
+	margin-left: 10px; 
+}
+
+#card-panel-title{
+	margin-left: 10px; 
+}
+
+.tokyo{
+	text-align: justify;
+}
+
+#card1{
+	color: #311b92;
+}
+
+#card2{
+	color: #311b92;
+}
+
+#card3{
+	color: #311b92;
+}
+
+.card-panel{
+	height: 315px;
+}
+
+/*-modal-footer specifications-*/
+#close{
+	margin-right: 20px;
+}
+
+/*--------------footer specifications-----------------*/
+
+#btn-submit{
+	color: #4a148c;
+}
+
+/* label color */
+.input-field label {
+    color: white !important;
+}
+
+/* label underline focus color */
+.input-field input[type=text]:focus{
+    color: white !important;
+}
+/* label underline focus color for email */
+.input-field input[type=email]:focus{
+    color: white !important;
+}
+
+/* label focus color */
+ .input-field input:focus + label{
+   color: white !important;
+ }
+ /* label underline focus color */
+ .row .input-field input:focus{
+   border-bottom: 1px solid white !important;
+   box-shadow: 0 1px 0 0 white !important
+ }
+
+/* label underline focus color */
+.input-field input[type=text]:focus{
+	border-bottom: 1px solid white !important;
+	box-shadow: 0 1px 0 0 white !important;
+}
+/* valid color */
+.input-field input[type=text].valid{
+	border-bottom: 1px solid white !important;
+	box-shadow: 0 1px 0 0 white !important;
+	color: white !important;
+}
+
+/* valid color for email */
+.input-field input[type=email].valid{
+	border-bottom: 1px solid white !important;
+	box-shadow: 0 1px 0 0 white !important;
+	color: white !important;
+}
+/* invalid color for email */
+.input-field input[type=email].invalid{
+	border-bottom: 1px solid red !important;
+	box-shadow: 0 1px 0 0 red !important;
+	color: white !important;
+}
+
+/* icon prefix focus color */
+.input-field .prefix.active{
+	color: white !important;
+}
+
+#footer-media{
+	display: inline-flex;
+}
+
+#social-media1{
+	margin-top: 9.5px;
+	width: 60px;
+	border-style: solid;
+	margin-left: 5px;
+}
+
+#social-media2{
+	margin-top: 9.5px;
+	width: 60px;
+	border-style: solid;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#social-media3{
+	margin-top: 7px;
+	width: 60px;
+	border-style: solid;
+	margin-right: 5px;
+}
+
+#about{
+	margin-right: 10px !important;
+}
+
